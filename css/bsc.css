@@ -1,0 +1,50 @@
+body{
+  background-color: yellow;
+background-image:url("wall.jpeg");
+
+
+
+}
+.p
+{
+text-align: center;
+text-decoration: underline;
+color: green;
+
+
+
+}
+.in{
+color:white;
+}
+.c{
+   color: yellow;
+   text-decoration:underline;
+   text-align: center;
+
+
+}
+
+.ed{
+  color: white;
+}
+.ol{
+  color: white;
+}
+.o
+{
+  color: white;
+}
+
+.h{
+
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
+.ex{
+text-align: center;
+text-decoration:underline;
+color: red;
+
+}
